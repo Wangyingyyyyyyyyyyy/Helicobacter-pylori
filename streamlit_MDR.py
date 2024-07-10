@@ -22,7 +22,7 @@ def set_background():
     h2 {background-color: #B266FF;margin-top: 2vh;border-left: red solid 0.6vh}
     .css-1avcm0n {background: rgb(14, 17, 23, 0)}
     .css-18ni7ap {background: #B266FF;z-index:1;height:3rem}
-    #MainMenu {background: #B266FF;z-index:1;height:3rem}
+    #MainMenu {visibility:hidden;}
     footer {visibility:hidden;}
     .css-18e3th9 {padding: 0 1rem 1rem}
     .css-1dvcl5b {box-shadow: 0.05rem 0.05rem 0.2rem 0.1rem rgb(192, 192, 192);margin:0 calc(20% + 0.5rem);}
