@@ -27,8 +27,8 @@ def set_background():
     .css-18e3th9 {padding: 0 1rem 1rem}
     .css-1oj1nhe {box-shadow: 0.05rem 0.05rem 0.2rem 0.1rem rgb(192, 192, 192);margin:0 calc(20% + 0.5rem);}
     .css-1cbqeqj {text-align: center;}
-    .css-1x8cf1d {background: #00800082}
-    .css-1x8cf1d:hover {background: #00800033}
+    button {background: #00800082}
+    button:hover {background: #00800033}
     </style>
     '''
     st.markdown(page_bg_img, unsafe_allow_html=True)
