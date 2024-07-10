@@ -24,7 +24,7 @@ def set_background():
     .css-18ni7ap {background: #B266FF;z-index:1;height:3rem}
     #MainMenu {visibility:hidden;}
     footer {visibility:hidden;}
-    .css-z5fcl4 {padding: 0 1rem 1rem}
+    ..css-18e3th9 {padding: 0 1rem 1rem}
     .css-12ttj6m {box-shadow: 0.05rem 0.05rem 0.2rem 0.1rem rgb(192, 192, 192);margin:0 calc(20% + 0.5rem);}
     .css-1cbqeqj {text-align: center;}
     .css-1x8cf1d {background: #00800082}
