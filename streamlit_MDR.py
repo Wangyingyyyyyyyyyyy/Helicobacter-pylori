@@ -13,7 +13,7 @@ else:
     model = st.session_state["model"]
     scaler = st.session_state["scaler"]
 
-# st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")
 
 
 def set_background():
