@@ -27,7 +27,7 @@ def set_background():
     #MainMenu {visibility:hidden;}
     footer {visibility:hidden;}
     .css-18e3th9 {padding: 0 1rem 1rem}
-    # .css-1dvcl5b {box-shadow: 0.05rem 0.05rem 0.2rem 0.1rem rgb(192, 192, 192);margin:0 calc(20% + 0.5rem);}
+    .css-1dvcl5b {box-shadow: 0.05rem 0.05rem 0.2rem 0.1rem rgb(192, 192, 192);width: 60vw;margin-left:20vw}
     .css-1cbqeqj {text-align: center;}
     button {background: #00800082}
     button:hover {background: #00800033}
